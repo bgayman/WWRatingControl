@@ -2,7 +2,7 @@
 
 Rating control for tvOS demoed at WWDC 2016 for session entitled [Focus interaction on tvOS](https://developer.apple.com/videos/play/wwdc2016/215/).
 
-Project written in swift 2.3 with iOS target 9.3, though demo code was written in swift 3.0 and targetting iOS 10, other than that mostly the same.
+Project written in swift 2.2 with iOS target 9.3, though demo code was written in swift 3.0 and targetting iOS 10, other than that mostly the same.
 
 ![Screen shot](ScreenShot.png)
 
